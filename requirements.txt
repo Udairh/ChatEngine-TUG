@@ -1,0 +1,9 @@
+llama-index
+langchain
+transformers
+torch
+streamlit
+wikipedia-api
+pdfplumber
+sentence-transformers
+faiss-cpu
